@@ -1,3 +1,9 @@
+
+tfout
+*.tfstate
+*.tfstate.backup
+.terraform/
+
 # Local .terraform directories
 .terraform/
 
